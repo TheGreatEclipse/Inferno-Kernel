@@ -2,7 +2,7 @@
 #
 
 SECONDS=0 # builtin bash timer
-ZIPNAME="Destruction-Ginkgo-$(TZ=Asia/Baku date +"%Y%m%d-%H%M").zip"
+ZIPNAME="Destruction-Ginkgo-KSUN-$(TZ=Asia/Baku date +"%Y%m%d-%H%M").zip"
 TC_DIR="$(pwd)/../tc/"
 CLANG_DIR="${TC_DIR}clang"
 GCC_64_DIR="${TC_DIR}aarch64-linux-android-4.9"
